@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.sortInfo(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "notStartedArr">
+            </PersistentString>
+            <PersistentString
+               value = "sender.titleLabel?.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.tableView(_:cellForRowAt:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidLoad():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "notStartedArr">
+            </PersistentString>
+            <PersistentString
+               value = "notStartedArr[0].1.description(with: Locale(identifier:&quot;en&quot;))">
+            </PersistentString>
+            <PersistentString
+               value = "notStartedArr[1].1.description(with: Locale(identifier:&quot;en&quot;))">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "sort(isAscending:array:):Data.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "array[1].1.description(with: Locale(identifier:&quot;en&quot;))">
+            </PersistentString>
+            <PersistentString
+               value = "array[0].1.description(with: Locale(identifier:&quot;en&quot;))">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
